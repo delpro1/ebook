@@ -1,6 +1,6 @@
 # *Ebook for Delpro Students*
 
-Berikut adalah ebook sebagai suplemen pembelajaran mahasiswa yang terkait dengan Unit Kegiatan Mahasiswa (UKM) Delpro.
+Berikut adalah ebook sebagai suplemen pembelajaran mahasiswa yang terkait dengan Unit Kegiatan Mahasiswa (UKM) Delpro Institut Teknologi Del.
 
 ## List of Book:
 - <b>Pemograman Kompetitif Dasar</b> ~ *Alham Fikri Aji et al*
